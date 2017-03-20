@@ -1,0 +1,31 @@
+body {
+  background: #f4f4f4;
+}
+
+/*Navbar*/
+.navbar {
+  min-height: 50px !important;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.navbar-nav > li > a, .navbar-brand{
+
+  height: 50px;
+}
+/*Login*/
+#loginPageBrand{
+  text-align: center;
+}
+
+#header{
+  background: #333;
+  color: #fff;
+  padding: 8px 0;
+  margin: 23px 0;
+
+}
+
+#header .create{
+  padding-top: 20px;
+}
